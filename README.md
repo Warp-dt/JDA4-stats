@@ -1,7 +1,7 @@
 # JDA-Stats
 Web scraping and data analysis for a Dofus Touch tournament, the Abyss Joust #4
 
-![alt text](https://github.com/Warp-dt/JDA4-stats/blob/main/graphs/recapitulatif_winrates_ronde_1.jpg?raw=true)
+![alt text](https://github.com/Warp-dt/JDA4-stats/blob/main/graphs/recapitulatif_winrates_ronde_2.jpg?raw=true)
 ![alt text](https://github.com/Warp-dt/JDA4-stats/blob/main/graphs/recapitulatif_duos1.png?raw=true)
 ![alt text](https://github.com/Warp-dt/JDA4-stats/blob/main/graphs/Kelerog_recaputilatif.png?raw=true)
 ![alt text](https://github.com/Warp-dt/JDA4-stats/blob/main/graphs/Blair_recaputilatif.png?raw=true)
